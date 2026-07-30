@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="<img width="1200" height="549" alt="image" src="https://github.com/user-attachments/assets/31d6b3c1-6eae-4476-bb49-ffc8a8c3bd88" />
+  <img src="<img width="1200" height="549" alt="7b871cee4ff324b9cc17ea028b4074ce" src="https://github.com/user-attachments/assets/818be8cf-b864-4fa6-ba68-94776780af0b" />
 " alt="Banner" width="100%">
 </p>
-
 <h1 align="center">Olá 👋, eu sou Lucas</h1>
 
 <p align="center">
