@@ -1,42 +1,81 @@
-# Olá! 👋 Eu sou Lucas
+<h1 align="center">Olá 👋 Eu sou Lucas</h1>
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+<h3 align="center">
+☕ Java Backend Developer
+</h3>
 
-☕ Focado em Java Backend
+<p align="center">
+🎓 Análise e Desenvolvimento de Sistemas <br>
+💻 Apaixonado por Java e Desenvolvimento Backend <br>
+🚀 Construindo projetos para evoluir todos os dias.
+</p>
 
-📚 Atualmente estudando:
+<h3 align="left">🌐 Conecte-se comigo</h3>
 
-- Java
-- Programação Orientada a Objetos
-- JDBC
-- SQL
-- Spring Boot
-- Git e GitHub
+<p align="left">
 
-🎯 Objetivo
+<a href="linkedin.com/in/lucas-emmanuel-a776502aa">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-Me tornar Desenvolvedor Full Stack com foco em Backend Java.
+<a href="mailto:programacaolucas3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
 
----
+<a href="https://www.instagram.com/lucasemmanuelll/">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>
 
-## Tecnologias
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<h2>💻 Tech Stack</h2>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring"/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
----
+<img src="https://skillicons.dev/icons?i=git"/>
 
-## Estatísticas
+<img src="https://skillicons.dev/icons?i=github"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=html"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=css"/>
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge)
+
+## 💡 Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+>
+> — Harold Abelson
+>
+> <p align="center">
+⭐ Obrigado por visitar meu perfil!
+</p>
