@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="<img width="1200" height="549" alt="image" src="https://github.com/user-attachments/assets/31d6b3c1-6eae-4476-bb49-ffc8a8c3bd88" />
+" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Olá 👋, eu sou Lucas</h1>
 
 <p align="center">
