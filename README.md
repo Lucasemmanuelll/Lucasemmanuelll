@@ -1,6 +1,6 @@
 <img width="1200" height="549" alt="7b871cee4ff324b9cc17ea028b4074ce" src="https://github.com/user-attachments/assets/f22cf01d-d455-47a7-83ea-1d9f5e8697c1" />
 
-<h1 align="center">Olá 👋, eu sou Lucas</h1>
+<h1 align="center"> Lucas aqui! </h1>
 
 <p align="center">
 ☕ Desenvolvedor Backend Java <br>
