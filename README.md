@@ -1,81 +1,136 @@
 <h1 align="center">Olá 👋 Eu sou Lucas</h1>
 
-<h3 align="center">
-☕ Java Backend Developer
-</h3>
+<h3 align="center">☕ Desenvolvedor Backend Java</h3>
 
 <p align="center">
-🎓 Análise e Desenvolvimento de Sistemas <br>
-💻 Apaixonado por Java e Desenvolvimento Backend <br>
-🚀 Construindo projetos para evoluir todos os dias.
+Apaixonado por tecnologia, desenvolvimento Backend e resolução de problemas através da programação.
 </p>
 
-<h3 align="left">🌐 Conecte-se comigo</h3>
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+☕ Focado em Java Backend
+
+🌱 Atualmente estudando:
+
+- Java
+- Programação Orientada a Objetos
+- JDBC
+- MySQL
+- Spring Boot
+- Git e GitHub
+
+💡 Objetivo: Tornar-me Desenvolvedor Backend Java.
+
+---
+
+## 🌎 Conecte-se comigo
 
 <p align="left">
 
-<a href="linkedin.com/in/lucas-emmanuel-a776502aa">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:programacaolucas3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/lucasemmanuelll/">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
-<h2>💻 Tech Stack</h2>
+---
+
+# 💻 Tecnologias
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,idea,vscode"/>
 
 </p>
 
-## 📊 GitHub Analytics
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=tokyonight)
+# 📊 Estatísticas
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lucasemmanuelll&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true)
 
-## 📈 Contribution Graph
+---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Lucasemmanuelll&theme=tokyo-night)
+# 🔥 Sequência de contribuições
 
-## 🏆 GitHub Trophies
+![](https://streak-stats.demolab.com?user=Lucasemmanuelll&theme=github-dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucasemmanuelll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+# 📈 Gráfico de Contribuições
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Lucasemmanuelll&theme=github-dark)
+
+---
+
+# 🏆 Troféus
+
+![](https://github-profile-trophy.vercel.app/?username=Lucasemmanuelll&theme=onedark&margin-w=15&no-frame=true)
+
+---
+
+# 📌 Projetos
+
+📚 Sistema Bancário em Java
+
+💰 Sistema de Caixa
+
+📦 Sistema de Estoque
+
+🧾 CRUD com JDBC
+
+🌐 API REST com Spring Boot
+
+📖 Projetos da Faculdade
+
+---
+
+# 🎯 Objetivos para 2026
+
+✅ Dominar Java
+
+✅ Dominar POO
+
+⬜ Spring Boot
+
+⬜ JPA/Hibernate
+
+⬜ Docker
+
+⬜ Testes Unitários
+
+⬜ AWS
+
+⬜ Desenvolvedor Backend Java
+
+---
+
+# 📫 Contato
+
+📧 Seu Email
+
+💼 LinkedIn
+
+🌎 Brasil
+
+---
+
+> "Primeiro resolva o problema. Depois escreva o código." — John Johnson
+
+---
 
 ![](https://komarev.com/ghpvc/?username=Lucasemmanuelll&color=blue&style=for-the-badge)
-
-## 💡 Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
->
-> — Harold Abelson
->
-> <p align="center">
-⭐ Obrigado por visitar meu perfil!
-</p>
