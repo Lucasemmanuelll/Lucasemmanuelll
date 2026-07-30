@@ -54,21 +54,21 @@
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lucasemmanuelll&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Lucasemmanuelll&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucasemmanuelll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Lucasemmanuelll&color=blue&style=for-the-badge)
 
 ## 💡 Quote
 
