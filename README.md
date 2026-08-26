@@ -1,50 +1,61 @@
-<img width="1200" height="549" alt="7b871cee4ff324b9cc17ea028b4074ce" src="https://github.com/user-attachments/assets/f22cf01d-d455-47a7-83ea-1d9f5e8697c1" />
+<img width="1200" height="549" alt="Lucas Emmanuel" src="https://github.com/user-attachments/assets/f22cf01d-d455-47a7-83ea-1d9f5e8697c1" />
 
-<h1 align="center"> Lucas aqui! </h1>
+<h1 align="center">Lucas Emmanuel</h1>
 
 <p align="center">
-☕ Desenvolvedor Backend Java <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  Desenvolvedor Backend em formação • Java • POO • SQL<br>
+  🎓 Análise e Desenvolvimento de Sistemas
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lucasemmanuelll">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias
+### 👨‍💻 Sobre mim
+
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em **desenvolvimento backend com Java**.
+
+Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a Objetos, coleções, tratamento de exceções, SQL e JDBC**, desenvolvendo projetos práticos para consolidar minha base.
+
+---
+
+### 🛠️ Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,vscode" />
 </p>
+
+**Estudando:** Java • POO • SQL • JDBC • Estruturas de dados • Backend
+
+**Próximos passos:** APIs/HTTP • Spring Boot • Banco de dados aplicado a projetos
+
+---
+
+### 🚀 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [🎬 projeto-filme-screen](https://github.com/Lucasemmanuelll/projeto-filme-screen) | Projeto em Java para prática de POO e organização de código |
+| [🧩 interface-map-set-training](https://github.com/Lucasemmanuelll/interface-map-set-training) | Exercícios de interfaces, Map e Set |
+| [⚠️ try-catch-training](https://github.com/Lucasemmanuelll/try-catch-training) | Prática de tratamento de exceções com try/catch |
+| [📚 ArrayList-e-Obj-training](https://github.com/Lucasemmanuelll/ArrayList-e-Obj-training) | Prática com ArrayList e objetos |
+| [☕ primeiro-projeto-java](https://github.com/Lucasemmanuelll/primeiro-projeto-java-) | Um dos primeiros projetos desenvolvidos em Java |
 
 ---
 
 ### 📊 GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 Contribuições
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasemmanuelll&theme=github-dark&hide_border=true"/>
-
----
-
-### 📫 Contato
-
-<a href="https://www.linkedin.com/in/SEU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
-
 <p align="center">
-<i>"Sempre aprendendo e construindo projetos em Java."</i>
+  <i>Construindo conhecimento, um projeto de cada vez. ☕</i>
 </p>
