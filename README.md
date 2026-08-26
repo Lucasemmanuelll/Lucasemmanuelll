@@ -35,18 +35,6 @@ Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a 
 
 ---
 
-### 🚀 Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [🎬 projeto-filme-screen](https://github.com/Lucasemmanuelll/projeto-filme-screen) | Projeto em Java para prática de POO e organização de código |
-| [🧩 interface-map-set-training](https://github.com/Lucasemmanuelll/interface-map-set-training) | Exercícios de interfaces, Map e Set |
-| [⚠️ try-catch-training](https://github.com/Lucasemmanuelll/try-catch-training) | Prática de tratamento de exceções com try/catch |
-| [📚 ArrayList-e-Obj-training](https://github.com/Lucasemmanuelll/ArrayList-e-Obj-training) | Prática com ArrayList e objetos |
-| [☕ primeiro-projeto-java](https://github.com/Lucasemmanuelll/primeiro-projeto-java-) | Um dos primeiros projetos desenvolvidos em Java |
-
----
-
 ### 📊 GitHub
 
 <p align="center">
