@@ -1,69 +1,49 @@
+<img width="1200" height="549" alt="Lucas Emmanuel" src="https://github.com/user-attachments/assets/f22cf01d-d455-47a7-83ea-1d9f5e8697c1" />
+
 <h1 align="center">Lucas Emmanuel</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • Java • Back-end • Banco de Dados
+  Desenvolvedor Backend em formação • Java • POO • SQL<br>
+  🎓 Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-  Construindo minha base em tecnologia através de estudo, prática e projetos.
+  <a href="https://github.com/Lucasemmanuelll">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em formação.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em **desenvolvimento backend com Java**.
 
-Atualmente estou concentrando meus estudos em **Java e desenvolvimento Back-end**, buscando construir uma base sólida em programação, Programação Orientada a Objetos e Banco de Dados.
-
-Também tenho interesse em **Infraestrutura, Redes e desenvolvimento Full Stack**, áreas que pretendo explorar ao longo da minha jornada.
-
-Acredito que aprender programação vai além de acumular informações: é necessário **entender a lógica, organizar o conhecimento e aplicar na prática**.
+Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a Objetos, coleções, tratamento de exceções, SQL e JDBC**, desenvolvendo projetos práticos para consolidar minha base.
 
 ---
 
-## 🛠️ Tecnologias e estudos
+### 🛠️ Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,vscode" />
 </p>
 
-### ☕ Atualmente estudando
-- Java
-- Programação Orientada a Objetos (POO)
-- Collections e estruturas de dados
-- Tratamento de exceções
-- SQL e Banco de Dados
-- JDBC
-- Desenvolvimento Back-end
+**Estudando:** Java • POO • SQL • JDBC • Estruturas de dados • Backend
 
-### 🚀 Próximos passos
-- APIs e HTTP
-- Spring Boot
-- Integração Java + Banco de Dados
-- Infraestrutura e Redes
-- Desenvolvimento Full Stack
+**Próximos passos:** APIs/HTTP • Spring Boot • Banco de dados aplicado a projetos
 
 ---
 
-## 📚 Projetos
+### 📊 GitHub
 
-Estou utilizando meus repositórios para registrar minha evolução prática.
-
-- 🏦 **Sistema Bancário em Java** — projeto para praticar Java, POO, relacionamentos entre objetos e evolução incremental.
-- ☕ **Treinamentos de Java** — exercícios e estudos de conceitos específicos da linguagem.
-- 🗄️ **Estudos de SQL** — prática de consultas e fundamentos de Banco de Dados.
-
----
-
-## 🧠 Minha forma de aprender
-
-**Estudo → Prática → Erro → Análise → Refatoração → Evolução**
-
-Meu objetivo é transformar cada projeto em uma oportunidade de compreender melhor o que estou estudando.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Construindo conhecimento, um projeto e um commit de cada vez. ☕</i>
+  <i>Construindo conhecimento, um projeto de cada vez. ☕</i>
 </p>
