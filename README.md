@@ -38,8 +38,18 @@ Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a 
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Lucasemmanuelll?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/Lucasemmanuelll?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Linguagens mais utilizadas" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lucasemmanuelll?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasemmanuelll&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
+  </a>
 </p>
 
 ---
