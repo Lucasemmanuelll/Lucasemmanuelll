@@ -41,8 +41,8 @@ Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a 
   <a href="https://github.com/Lucasemmanuelll?tab=repositories">
     <img src="https://github-stats-extended.vercel.app/api?username=Lucasemmanuelll&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/Lucasemmanuelll?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens mais utilizadas" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Linguagens%20mais%20utilizadas&hide=CSS,HTML&title_color=58A6FF">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucasemmanuelll&layout=compact&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Linguagens%20mais%20utilizadas&hide=CSS,HTML&title_color=58A6FF" alt="Linguagens mais utilizadas" />
   </a>
 </p>
 
