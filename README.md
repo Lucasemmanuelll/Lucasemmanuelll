@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **desenvolvimento backend com Java**.
 
@@ -51,7 +51,3 @@ Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a 
 </p>
 
 ---
-
-<p align="center">
-  <i>Construindo conhecimento, um projeto de cada vez. ☕</i>
-</p>
