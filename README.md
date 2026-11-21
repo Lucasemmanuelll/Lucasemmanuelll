@@ -31,8 +31,6 @@ Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a 
 
 **Estudando:** Java • POO • SQL • JDBC • Estruturas de dados • Backend
 
-**Próximos passos:** APIs/HTTP • Spring Boot • Banco de dados aplicado a projetos
-
 ---
 
 ### 📊 GitHub
